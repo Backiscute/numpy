@@ -64,7 +64,7 @@ The script samples each trajectory at 100 time points between 0 and t_f. Range i
 
 ## Results
 
-Plot of the current i(t) with its DC term, fundamental and harmonic sum:
+Plot of the trajectory of the football after being launched:
 
 ![Function plot](images/plot.png)
 
@@ -80,6 +80,3 @@ python original.py
 ```bash
 python function.py
 ```
-
-> [!TIP]
-> The harmonic sum converges very quickly. Setting `N = 50` instead of `1000000` gives a visually identical plot almost instantly.
