@@ -1,6 +1,6 @@
 # Exercice
-Recreate the function below using numpy and plot it using matplot
-> [!INFO]
+Recreate the function below using NumPy and plot it using MatPlot
+> [!NOTE]
 > This code was originaly made in French
 
 ![Function definition](images/function.png)
@@ -47,7 +47,7 @@ The inductor acts as a low-pass filter: higher harmonics see a larger impedance 
 | f | 50 Hz | Source frequency |
 
 ## Files
-
+- `function.py`: the function plot script
 - `original.py`: the original script (in French).
 - `images/`: result plots.
 
